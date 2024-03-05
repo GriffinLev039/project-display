@@ -44,7 +44,6 @@ fetch('http://localhost:3000/data')
     .then(response => response.json())
     .then(data => {
         urlArr = data;
-})
 
 for (let i = 0; i < urlArr.length; i++) {
     //Creates all parts of the link
@@ -85,3 +84,4 @@ for (let i = 0; i < urlArr.length; i++) {
     })
 }
 
+});
