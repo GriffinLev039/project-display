@@ -1,4 +1,3 @@
-User
 //add node.js implementation for reading file, and creating array of objects from it.
 //Line format:
 // Title | Project url | img URL | Description
